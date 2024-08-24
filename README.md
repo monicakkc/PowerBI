@@ -1,0 +1,2 @@
+Excercicio modulo 2 no BI:
+https://app.powerbi.com/view?r=eyJrIjoiNmJmODI3OGQtZTBjZS00NGFkLWE2ZWYtZGJhYzg1NmFjM2Y3IiwidCI6ImRlM2UyZWMxLTNhZmQtNGUzZC04MjhjLWFmODk3NWJmYjBkOCJ9
